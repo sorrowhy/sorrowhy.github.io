@@ -1,3 +1,15 @@
 body {
-  background-color: #FFDAB9;
+  background-color: darkgrey;
+}
+.main_head {
+  font-size: 550%;
+  text-align: center;
+}
+header{
+
+}
+.kek{
+  margin-left: 30%;
+  margin-right: 30%;
+  font-size: 210%;
 }
